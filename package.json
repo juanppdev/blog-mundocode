@@ -65,6 +65,11 @@
     "astro-compress/sharp": "0.33.1"
   },
   "dependencies": {
-    "astro-compressor": "^0.4.1"
+    "@astrojs/react": "^3.0.10",
+    "@types/react": "^18.2.58",
+    "@types/react-dom": "^18.2.19",
+    "astro-compressor": "^0.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
