@@ -39,6 +39,13 @@ export default defineConfig({
     plugins: [VitePWA({
       registerType: 'autoUpdate',
       manifest,
+      build: {
+        rollupOptions: {
+          external: [
+            '@config/config.json',
+          ],
+        },
+      },
       workbox: {
         globDirectory: 'dist',
         globPatterns: ['**/*.{js,css,svg,png,jpg,jpeg,gif,webp,woff,woff2,ttf,eot,ico}'],
