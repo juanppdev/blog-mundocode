@@ -1,7 +1,7 @@
 
 # Blog MundoCode
 
-Este es un blog donde podrás ver noticias sobre tecnologia, programación, además aqui podás enterarte de las novedades que vayamos sacando o haciendo desde nuestra web principal. Hola Mundo
+Este es un blog donde podrás ver noticias sobre tecnologia, programación, además aqui podás enterarte de las novedades que vayamos sacando o haciendo desde nuestra web principal.
 
 
 ## Authors
