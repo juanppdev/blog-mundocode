@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Blog MundoCode ",
+    "title": "EV0 ",
     "base_url": "https://ev0.gndx.io",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
-    "lang": "es",
-    "description": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia",
+    "lang": "en",
+    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
     "pageSize": 6
   },
   "features": {
@@ -15,12 +15,12 @@
     "dark_mode": true
   },
   "metadata": {
-    "meta_author": "Juan Pablo @Juanppdev",
-    "meta_description": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia"
+    "meta_author": "Oscar Barajas @gndx",
+    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   },
   "author": {
-    "name": "Juan Pablo @Juanppdev",
+    "name": "Oscar Barajas Tavares @gndx",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia"
+    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
   }
 }
