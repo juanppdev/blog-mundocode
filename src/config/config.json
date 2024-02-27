@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "Blog MundoCode ",
+    "base_url": "https://ev0.gndx.io",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
+    "lang": "es",
+    "description": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Juan Pablo @Juanppdev",
+    "meta_description": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia"
+  },
+  "author": {
+    "name": "Juan Pablo @Juanppdev",
+    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
+    "bio": "Este blog te servira para saber que proyectos hacemos o que herramientas proponemos, o tambien podrás ver noticias actuales Tecnologia"
+  }
+}
