@@ -1,0 +1,32 @@
+name: blog
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run Script
+        run: npm install
+
+      - name: build
+        run: npm run build
+
+      - name: Commit Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update dist
+          commit_user_name: Juanppdev [Github Action]
+          commit_user_email: juanppdev@gmail.com
+          commit_author: Juanppdev
