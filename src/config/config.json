@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "Blog MundoCode",
+    "base_url": "https://blog-mundocode.vercel.app",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
+    "lang": "en",
+    "description": "Este es el blog oficial de mundocode, donde te enteraras sobre tecnologia y programación.",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Juan Pablo Patino @juanppadev",
+    "meta_description": "Este es el blog oficial de mundocode, donde te enteraras sobre tecnologia y programación."
+  },
+  "author": {
+    "name": "Juan Pablo Patino @juanppadev",
+    "avatar": "/avatar.jpg",
+    "bio": "Este es el blog oficial de mundocode, donde te enteraras sobre tecnologia y programación."
+  }
+}
