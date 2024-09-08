@@ -4,8 +4,8 @@
     "base_url": "https://blog-mundocode.vercel.app",
     "base_path": "/",
     "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
+    "logoLight": "/favicon.png",
+    "logoDark": "/favicon.png",
     "lang": "en",
     "description": "Este es el blog oficial de mundocode, donde te enteraras sobre tecnologia y programación.",
     "pageSize": 6
