@@ -2,7 +2,7 @@
 title: "Las diez noticias del dia"
 description: "Aqui te cuento algunas cosas que han pasado en el dia de hoy en base a tecnologia 2024"
 pubDate: "Sept 09 2024"
-heroImage:  "/img/noticeTen.png"
+heroImage:  "/img/noticeTen.jpeg"
 categories: ["Technology", "Notice"]
 authors: ["Juanppdev"]
 tags: ["Technology"]
