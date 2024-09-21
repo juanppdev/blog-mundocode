@@ -1,5 +1,30 @@
 [
   {
+    "title": "Primeros pasos con Angular 18",
+    "description": "Aqui aprenderemos a usar Angular 18 desde cero, siguiendo el tutorial que nos ofrece el mismo Angular. Repositorio Github: ...",
+    "channelId": "UCBybx8ZDMvO8-rgfid7PKSw",
+    "channelTitle": "Juanppdev",
+    "videoId": "_HknWXhXjwY",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_HknWXhXjwY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_HknWXhXjwY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_HknWXhXjwY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "2024-09-21T19:36:34Z"
+  },
+  {
     "title": "Nuestro primer Hola Mundo Con Python",
     "description": "Te doy la bienvenida a este canal, donde haremos proyectos de porgramación, como sitios web, retos y mucho más. Servidor de ...",
     "channelId": "UCBybx8ZDMvO8-rgfid7PKSw",
@@ -48,5 +73,23 @@
       }
     },
     "publishedAt": "2024-03-01T12:15:01Z"
+  },
+  {
+    "title": "Juanppdev",
+    "description": "",
+    "channelId": "UCBybx8ZDMvO8-rgfid7PKSw",
+    "channelTitle": "Juanppdev",
+    "thumbnails": {
+      "default": {
+        "url": "https://yt3.ggpht.com/1thL_nw7yKu83h88JH9QSJOmcyFa8wD7SRvbHjnukL7aLxytSGoyRJrMj95WsVffoOiMCQyODQ=s88-c-k-c0xffffffff-no-rj-mo"
+      },
+      "medium": {
+        "url": "https://yt3.ggpht.com/1thL_nw7yKu83h88JH9QSJOmcyFa8wD7SRvbHjnukL7aLxytSGoyRJrMj95WsVffoOiMCQyODQ=s240-c-k-c0xffffffff-no-rj-mo"
+      },
+      "high": {
+        "url": "https://yt3.ggpht.com/1thL_nw7yKu83h88JH9QSJOmcyFa8wD7SRvbHjnukL7aLxytSGoyRJrMj95WsVffoOiMCQyODQ=s800-c-k-c0xffffffff-no-rj-mo"
+      }
+    },
+    "publishedAt": "2021-03-27T10:32:19Z"
   }
 ]
