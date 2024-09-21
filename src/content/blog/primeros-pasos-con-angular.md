@@ -18,9 +18,9 @@ Angular es un framework de desarrollo para construir aplicaciones web dinámicas
 ========================
 Antes de empezar, asegúrate de tener instalados los siguientes programas:
 
-- Node.js (versión 12.0 o superior)
-- npm (gestor de paquetes de Node.js)
-- Un editor de código (recomiendo Visual Studio Code)
+ * Node.js (versión 12.0 o superior)
+ * npm (gestor de paquetes de Node.js)
+ * Un editor de código (recomiendo Visual Studio Code)
 
 ## Instalación de Angular CLI
 ========================
